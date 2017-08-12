@@ -1,0 +1,19 @@
+current directory: /home/pedro/projects/rails/tosemagua/vendor/bundle/gems/byebug-9.0.6/ext/byebug
+/home/pedro/.rvm/rubies/ruby-2.3.3/bin/ruby -r ./siteconf20170812-15037-iuzxcu.rb extconf.rb
+creating Makefile
+
+current directory: /home/pedro/projects/rails/tosemagua/vendor/bundle/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" clean
+
+current directory: /home/pedro/projects/rails/tosemagua/vendor/bundle/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR="
+compiling locker.c
+compiling context.c
+compiling breakpoint.c
+compiling byebug.c
+compiling threads.c
+linking shared-object byebug/byebug.so
+
+current directory: /home/pedro/projects/rails/tosemagua/vendor/bundle/gems/byebug-9.0.6/ext/byebug
+make "DESTDIR=" install
+/usr/bin/install -m 0755 byebug.so ./.gem.20170812-15037-p6ievy/byebug
